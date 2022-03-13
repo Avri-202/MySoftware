@@ -1,3 +1,4 @@
 def welcome():
     print ("New Screen")
-print (yalla)
+print ("marina")
+print ('yalla')
